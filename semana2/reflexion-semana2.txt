@@ -1,0 +1,8 @@
+el terminal, una herramienta indispensable para los programadores y desarrolladores,
+sin este no podriamos generar carpetas, ni archivos ni repositorios, navegar carpetas,
+ejecutar programas, instalar paquetes, lanzar servidores y usar git.
+El terminal es como el esqueleto de los anteriores desarollos, o tambien podriamos 
+llamarlos cuarpos. el termianl se completementa a partir de codigos especificos, agregados en liagres exactos y en momentos
+presisos, esto con el objetivo que un correcto funcionamiento del desarollo de los 
+proyectos, permitiendo una correcta navegación y organización dentro de los mismos, por
+supuesto esto como resultado de su esructura y manera exacta de crearce.
