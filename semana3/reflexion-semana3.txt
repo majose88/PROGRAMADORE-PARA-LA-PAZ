@@ -1,0 +1,8 @@
+Git es una herramienta que se caracteriza por brindar un orden, ya sea 
+con proyectos, archivos, los cambios registrados a lo largo del proyecto
+, la ausencia de este tipo de herramimentas no solo hace perder tiempo,
+sino tambien un elemto tan importante que es la trazabilidad, que busca
+el tener en cuenta los cambios realizados a lo largo del proyecto,
+son importantes tenerlos en cuenta ya que el tener presente el proceso
+no hace mas practico el aprendizaje de conceptos, por ende es importante
+que los desarrolladores, tengan presentes este tipo de herramientas.

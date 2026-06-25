@@ -1,0 +1,12 @@
+REPOSITORIO : Es un espacio de almacenamiento puntual en gitHub, el cual
+permite guardar los codigos,archivos o carpetas de tu proyecto, cuidando
+su hitorial y trazabilidad
+
+COMMIT : El commit es un punto de control el cual consiste en la fotogra-
+fia de un momento especifico del proyecto, con el objetivo de registrar 
+los cambios realizados
+
+PUSH : El push o tambien conocido como git push, es un comando cuyo 
+objetivo es actualizar los cambios generados desde el computador o 
+terminal a la plataforma de la nube, en este caso del computador,
+codespaces, git al gitHub.
