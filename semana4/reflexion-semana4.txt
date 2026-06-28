@@ -1,12 +1,10 @@
-la tecnología social son una herramienta indispensable, que aparte de 
-tantas funciones que tiene también velan por la ayuda de las personas
- reales en contextos reales, por eso la comunicación es tan fundamental
- para el correcto funcionamiento de las tecnologías, si una comunidad 
- tiene una plataforma cuyo oficio es organizar reportes, pero, el
- funcionamiento de la plataforma es desconocido por la misma comunidad
- significa que la plataforma está fallando, no cumple su función cuando se
-presenta una interfaz clara, pero un lenguaje confuso y difícil de 
-entender termina siendo excluyente, por eso es importante adecuar a 
-las tecnologías para las personas, con la intención de que estas terminen
-creando sus propias plataformas perfectas para ellos mismo como comunidad
-
+La relación entre comunicación y tecnología social.
+tecnología social es una herramienta que aporta muchas funciones para la ayuda de las personas
+en contextos reales.
+Por eso la comunicación  es tan fundamental para el correcto funcionamiento de las tecnologías, 
+si una  persona o dicha comunidad tiene  una plataforma que organiza reportes, pero desconce de su 
+funcionamiento, significa que aquella plataforma esta fallando, no esta cumpliendo con su debida
+función, cuando se presenta una interfaz clara, pero presenta lenguaj confuso dificil de entender
+se genera excluyente y la falla, por eso es importante estar con la tecnología adecuada y saber 
+que  las personas entiendad y se apropien de su tecnología para asi comprender el funcionmieto 
+de  una forma adaptada para ellos.
