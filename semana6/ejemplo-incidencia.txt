@@ -1,0 +1,4 @@
+{
+    "tipo": "Fuga de agua"
+    "descripcion": "la comunidad reporta un tubo de agua roto."
+}

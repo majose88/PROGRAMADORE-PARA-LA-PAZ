@@ -1,0 +1,20 @@
+Se realizó una petición POST a la ruta:
+
+http://localhost:3000/registro
+
+
+Datos enviados en formato JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+
+Respuesta recibida del servidor:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

@@ -1,0 +1,15 @@
+Las plataformas tecnológicas son importantes porque permiten recibir información de los
+ciudadanos de una manera organizada y clara.
+El uso de formatos como JSON ayuda a que los datos tengan una estructura fácil de procesar.
+
+Con Express y req.body se pueden recibir mensajes, reportes e incidencias enviadas por los usuarios.
+
+Esto permite crear sistemas donde la comunidad pueda comunicar problemas o necesidades.
+
+La información organizada facilita analizar los datos y tomar mejores decisiones.
+
+Además, ayuda a mejorar la comunicación entre los ciudadanos y las organizaciones.
+
+Estas herramientas permiten crear soluciones tecnológicas útiles para la comunidad.
+
+Recibir datos correctamente permite construir servicios más eficientes y accesibles.
